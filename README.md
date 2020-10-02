@@ -1,13 +1,12 @@
-# CRAPP
-COVID Relief for Animal Professionals and Pets
+# COVID Relief for Animal Professionals and Pets (CRAPP)
+Project CRAPP is a generative research and content design project supported by LA DIA Design to understand the impact of COVID on animal professionals and pets and provide support to animal professionals and facilities. 
 
-Project CRAPP is a generative research and content design project supported by LA DIA Design to understand the impact of COVID on animal professionals and pets and provide support to animal professionals and facilities.
+**What are we looking for?**
+- volunteer apprentices - students, early career professionals who are looking for experience in UX research and content design
+- volunteer mentors who are interested in mentoring students and early career professionals
 
-## WE ARE LOOKING FOR
-volunteer apprentices - students, early career professionals who are looking for experience in UX research and content design
-volunteer mentors who are interested in mentoring students and early career professionals
-
-## TIME COMMITMENT
+## How long will this project last?
+This is an exploratory research project scheduled from Fall 2020 to spring 2021. It may extend longer if we find areas to expand into. 
 
 ### Phase 1 (Volunteer recruitment, September to December 2020)
 Focused primarily on UX research and analysis, information architecture, and content strategy
